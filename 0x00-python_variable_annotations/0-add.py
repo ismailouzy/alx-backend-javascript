@@ -6,4 +6,3 @@ a typed-annotation func ADD
 
 def add(a: float, b: float) -> float:
     return a + b
-
